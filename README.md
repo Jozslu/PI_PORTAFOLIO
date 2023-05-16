@@ -14,14 +14,14 @@ Alumno: José Luis Martínez Chávez
 
 * **EDA_1.ipynb** - _notebook, con la exploración y visualización de la data sin modificar._
 * **EDA_2.ipynb** - _notebook, con la exploración y visualización de la data mdificada._
-* **ETL.py** - _notebook con las transformaciones sugeridas._
+* **ETL.py** - _archivo.py con las transformaciones sugeridas._
 * **README** - _Instrucciones de uso._
 * **data_actualizada.csv** - _data limpia que usamos para las consultas y para el sistema de recomedación._
 * **requirements.txt** - _dependencias necesarias para que funcione la API._
 * **API** - _es una carpeta que contiene el llamado de la APi._
 * **main.py** - _contiene las funciones de las queries pedidas y el sistema de recomendación._
 * **Sistema_Recomendacion**- _es una carpeta que contiene la creación del modelo del Sistema de Recomendación._
-* **query_modelo.py** - _contiene las funciones de las queries pedidas y el sistema de recomendación._
+* **query_modelo.py** - _contiene el modelo de Sistema de recomendación solicitado y la función de recomendación._
 
 
 **Las funciones que componen la API  y sus respectivas consutas deployadas en render**
