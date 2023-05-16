@@ -61,4 +61,5 @@ en en este caso nos basamos en las librerías TfidfVectorizer y cosine_similarit
 ** Aquí adjuntaria el link del modelo deployado pero tuve problemas con la capacidad de memoria de 512MB que te proporciona Render.
 
 ** El Sistema de Recomedación se visualizará en el link del video, allí comprobarán su ejecución de manera local.  
+https://drive.google.com/drive/folders/1YsjWcYGJIbTtxexjklncLxAoiQ-0HhDP?usp=share_link
 
