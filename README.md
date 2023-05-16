@@ -55,7 +55,9 @@ Machine Learning
 
 Ya los datos están limpios, investigamos las relaciones que hay entre las variables de los datasets, ver si hay outliers o anomalías , y ver si hay algún patrón interesante que valga la pena explorar en un análisis posterior, para ello realizamos un Análisis Exploratorio de Datos-EDA.
 
-Por terminar desarrollamos nuestro Sistema de Recomendación basado a dos variables "title" y "overview " y en en este caso nos basamos en las librerías TfidfVectorizer y cosine_similarity.
+Por terminar desarrollamos nuestro Sistema de Recomendación basado a dos variables "title" y "overview " y 
+en en este caso nos basamos en las librerías TfidfVectorizer y cosine_similarity.
+
 ** Aquí adjuntaria el link del modelo deployado pero tuve problemas con la capacidad de memoria de 512MB que te proporciona Render.
 ** El Sistema de Recomedación se visualizará en el link del video, allí comprobarán su ejecución de manera local.  
 
